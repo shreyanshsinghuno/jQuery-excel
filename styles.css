@@ -248,3 +248,19 @@ body {
 .menu-icon.selected {
   background-color: lightgray;
 }
+
+.input-cell.top-cell-selected {
+  border-top: none;
+}
+
+.input-cell.bottom-cell-selected {
+  border-bottom: 1px solid lightgray;
+}
+
+.input-cell.right-cell-selected {
+  border-right: 1px solid lightgray;
+}
+
+.input-cell.left-cell-selected {
+  border-left: none;
+}
